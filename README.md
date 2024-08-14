@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-## Sobre mi:
+ Sobre mi:
 
 
 - 🔭 I’m currently working on ...
